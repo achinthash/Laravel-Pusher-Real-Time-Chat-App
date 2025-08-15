@@ -28,7 +28,7 @@ A real-time chat application built with **Laravel 12** and  **Pusher**.
 
 ###  Clone the repository
 ```bash
-git clone https://github.com/your-username/laravel-chat-app.git
+git clone https://github.com/achinthash/Laravel-Pusher-Real-Time-Chat-App.git
 cd laravel-chat-app
 ```
 
